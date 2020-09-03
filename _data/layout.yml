@@ -4,8 +4,8 @@ animation: "bounceOut"
 
 # Colors
 
-accent: "#c99065"
-borderColor: "#3888E1"
+accent: "#c9646b"
+borderColor: "#dee822"
 textColor: "#666"
 headlineColor: "#333"
 bgcolor: "#e5eaee"

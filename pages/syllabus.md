@@ -69,7 +69,7 @@ In this course we will be learning p5.js, an open source creative coding environ
 
 # Two "Field" Trips
 
-You are required to submit short write-ups of reports on two art and code-related events this semester. There are art and code events happening almost every weekend. And under coronavirus they are all online. I list many events online at [Data, Art and Technology](https://dart.fyi/) online and will also announce lots of opportunities to sign up for these (mostly free) events. 
+You are required to submit short write-ups of reports on two art and code-related events this semester. There are art and code events happening almost every weekend. And under coronavirus they are mostly online. 
 
 Each report must include:
 
@@ -143,30 +143,46 @@ code
 
 # Classroom Community
 
-## Attendance
+## Community Health During COVID-19
 
-Don't miss class! We only meet in person once a week! This is an opportunity to learn something new, intensely with a professor who is invested in your education and with incredible students. We are all needed to make this class successful. If possible, keep your camera on during our Zoom sessions. It's hard to feel energy and support together when we are staring at black screens. 
+To ensure that each of us has a healthy and safe learning experience, all students are required to remain informed and follow Purchase College Policy and/or any departmental, local, state, or federal laws, rules, or regulations for attending classes on campus and in a remote learning environment.
 
-Students are expected to be present and on time to class. Absences should be excused with documentation. Three absences will result in a grade lowered one unit. (A to a B for example). With each additional absence your grade will lower an additional unit. Showing up more than 15 minutes late is an absence. If there are extenuating circumstances and emergencies, be in touch with me, I'm reasonable.
+Within courses that involve in-person contact, all students, faculty members, staff, and visitors are required to adhere to the expectations outlined on the college’s COVID-19 website. Failure to comply with requirements (e.g. wearing masks, maintaining social distancing where applicable) will result in the request to leave the classroom for that in-person class session. Students may also be referred to the Office of Community Standards.
 
-We will be covering critical concepts and working on code and projects in-class and you are responsible for reviewing our class site and reaching out to your peers outside of class time to catch up on what you have missed.
+For the health of our entire community, please be sure to answer the daily health screening questionnaire thoroughly. Do not enter the any campus building if you are experiencing any symptoms of COVID-19. Contact your faculty if you need to miss class because of COVID-19 symptoms. The college will address on a case by case basis student absences due to COVID-19 symptoms, while awaiting test results, or during quarantine.
 
-## Discord
+## Counseling
 
-We will be using the online messaging and chat software Discord. You can access it through a web browser or download a standalone application. We will use it outside of our Zoom sessions. If you have a question and want help, ask in the #questions channel. For any big important news I will put official class announcements on the #announcements channel and I will also post it to Moodle or email the entire class.
+Help is available at the Counseling Center on campus for difficulties with emotional wellbeing and psychological functioning.   If distress is interfering in relationships, academics, work, or daily life, confidential support can be had right away. Contact the Counseling Center at (914) 251-6390 or COU.counseling.center@purchase.edu on M – F, 9 am – 5 pm. The Counseling Center’s [website](https://www.purchase.edu/counseling-center/index.php) lists after hours emergency resources for mental health crises, sexual assault or interpersonal violence emergencies ([Campus Advocacy Services](https://www.purchase.edu/counseling-center/emergency/sexual-assault-and-misconduct-help/),  [self-help](https://www.purchase.edu/counseling-center/TAO/) and additional coping resources.
 
-You are welcome to ask and answer questions and have ongoing conversations. Please keep announcements a channel just for me to post class announcements. Please remember to be respectful and treat this as a virtual extension of the classroom.
+## Expectations of Students
 
-## Philosophy
+Phones distract. Put them away.
 
-We are all learners and educators. Your experience and participation is valid and necessary. I am not the sole source of information. You are responsible for and encouraged to be in charge of your own education. Leap forth into areas of interest. Teach with and learn from others.
+Turn off all notifications. Put phones away.
+
+Please close your laptop while your fellow students are presenting work. You’re otherwise welcome to use laptops in class for classwork. For emergencies, go into the hallway to make a call.
+
+We are all learners and educators. I'm looking forward to learning from you as much as I hope to share my own knowledge. Your experience and participation is valid and necessary. I am not the sole source of information. You are responsible for and encouraged to be in charge of your own education. Leap forth into areas of interest. Teach with and learn from others.
 
 Please hold me accountable and point out areas that need to be improved.
 
-- Help each other out. Ask lots of questions of me and your fellow students.
+- Help each other out. Ask lots of questions of me and your fellow students. 
 - Learning to program is failure followed by success.
 - If you are feeling left behind, stuck, or frustrated in any way, please let me know immediately. I am here to help.
-- Sleep enough hours. Good sleep will get you through college, reduce stress, help you do well in class, and feel better. And it's free.
+- Sleep enough hours. Good sleep will get you through college, reduce stress, help you do well in class, and feel better.
+
+## Expectations of Professor
+
+I will be accessible to you in class, office hours, and online. I will respond promptly within 24 hours during the schoolweek to any questions and can clarify anything from our class.
+
+I will use your preferred name and pronouns and treat you with respect.
+
+If you come to me with a request or feedback I will listen and give my full consideration.
+
+If you have a concern or an emergency I will help you to services and support.
+
+I will give prompt and clear feedback to you on your progress in class at set points in the semester and any time you make a request via email.
 
 ### Statement of Values and Code of Conduct
 
@@ -175,6 +191,19 @@ Please hold me accountable and point out areas that need to be improved.
 It is my intent to lead a course that serves students from diverse backgrounds and perspectives, and that our varied life experiences may enter the classroom as a resource, strength and benefit. I will address you by your name and pronouns and make arrangements to address disabilities or religious needs. 
 
 Free exchange of ideas and critique is encouraged and expected but I will not tolerate harassment, including threats of violence, deliberate intimidation, unwelcome sexual attention, and offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background. During class discussion and critique we aim to speak and to listen, be mindful and generous in our interactions, and make everyone feel heard. 
+
+## Attendance
+
+Don't miss class! We only meet in person once a week! This is an opportunity to learn something new, intensely with a professor who is invested in your education and with incredible students. We are all needed to make this class successful. 
+
+Students are expected to be present and on time to class. Absences should be excused with documentation. Three absences will result in a grade lowered one unit. (A to a B for example). With each additional absence your grade will lower an additional unit. Showing up more than 15 minutes late is an absence. If there are extenuating circumstances and emergencies, be in touch with me, I'm reasonable.
+
+We will be covering critical concepts and working on code and projects in-class and you are responsible for reviewing our class site and reaching out to your peers outside of class time to catch up on what you have missed.
+
+## Discord
+
+We will be using the online messaging and chat software Discord. You can access it through a web browser or download a standalone application. We will use it outside of our class sessions. If you have a question and want help, ask in the #questions channel. For any big important news I will put official class announcements on the #announcements channel and I will also post it to Moodle or email the entire class. You are welcome to ask and answer questions and have ongoing conversations. Please remember to be respectful and treat this as a virtual extension of the classroom.
+
 
 ## Grades
 
@@ -195,9 +224,53 @@ D+ 67 - 69
 D  60 - 66  
 F  59 and below  
 
-## Participation
+(Participation includes asking or answering questions in class, participating in office hours or co-teaching others, assisting in group work and conversations, participating in online forum, and in other ways.)
 
-* Participation includes asking or answering questions in class, participating in office hours or co-teaching others, assisting in group work and conversations, participating in online forum, and in other ways.
+### Dates
+
+Last day to withdraw from full-term courses: Friday October 22.
+
+Thanksgiving break: Wednesday November 24 - Sunday November 28.
+
+Advising Week: Monday November 8 - Friday November 12.
+
+Spring Registration begins: Monday November 15.
+
+Final exam week: Monday December 13 - Friday December 17. We will do final presentations.
+
+Classes end December 17.
+
+### Schedule
+
+Week 1 - Introduction
+
+Week 2 - Variables and Conditionals
+
+Week 3 - Loops and Translation
+
+Week 4 - Media
+
+Week 5 - Functions, Arguments, Fonts
+
+Week 6 - Arrays
+
+Week 7 - Camera and Pixel Array
+
+Week 8 - 10print
+
+Week 9 - Sound and Video
+
+Week 10 - Autonomous Drawing Agents
+
+Week 11 - Text and Data
+
+Week 12 - Online Artworks
+
+Week 13 - 3D, and Beyond p5.js
+
+Week 14 - Final Project check-in
+
+Week 15 - Final Presentations
 
 ## Resources  
 

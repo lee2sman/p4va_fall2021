@@ -64,3 +64,10 @@ social:
 #- {icon: 'twitter', link: '#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+#
+#
+#-------------------------------
+# Footer section
+
+footer: >
+  <a href="https://www.purchase.edu/academics/new-media" alt="Purchase College New Media Department">Purchase College New Media</a>

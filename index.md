@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-Programming For Visual Artists is a fall 2020 class within the New Media department at Purchase College.
+Programming For Visual Artists is a fall 2021 class within the New Media department at Purchase College.
 
 # Course Vision
 

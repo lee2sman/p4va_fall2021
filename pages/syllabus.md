@@ -5,15 +5,15 @@ title: Syllabus
 
 # Programming for Visual Artists
 
-Fall 2020 at Purchase College
+Fall 2021 at Purchase College
 
 Instructor: Lee Tusman  
 Pronouns: he/him  
 Contact: Lee.Tusman@purchase.edu  
 
-"In-person" Class: NME 1450  Thursdays: 2:30pm on Zoom
+Class: NME 1450  Thursdays: 2:30pm 
 
-Office Hours: Wednesday 10:30am - 12:30pm on Discord/Zoom 
+Office Hours: by appointment on Discord/Zoom 
 
 # Course Description  
 

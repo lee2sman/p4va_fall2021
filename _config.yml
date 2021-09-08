@@ -18,7 +18,7 @@ description:	      "Programming For Visual Artists, at Purchase College, Fall 20
 author:              "Lee Tusman"
 
 
-baseurl: "/p4va_fall2020" # the subpath of your site, e.g. /blog
+baseurl: "/p4va_fall2021" # the subpath of your site, e.g. /blog
 url: "https://leetusman.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2sman2sman
 github_username:  lee2sman
